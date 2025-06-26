@@ -1,0 +1,7 @@
+[book]
+authors = ["Kristian Soto"]
+language = "en"
+description= "Kursa de lidepla traduken inu inglish"
+multilingual = false
+src = "src"
+title = "Kursa de Lidepla pa inglish"
